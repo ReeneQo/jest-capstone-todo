@@ -1,5 +1,7 @@
 # Todo-модуль на Jest
 
+[![CI](https://github.com/ReeneQo/jest-capstone-todo/actions/workflows/ci.yml/badge.svg)](https://github.com/ReeneQo/jest-capstone-todo/actions/workflows/ci.yml)
+
 Капстоун-проект: модуль управления задачами, разработанный по TDD и покрытый unit-тестами на Jest 30.
 
 ## Возможности
